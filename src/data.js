@@ -48,18 +48,6 @@ const data = {
       price: 24000,
       image: 'https://picsum.photos/id/111/4400/2656',
     },
-    {
-      id: '9',
-      name: 'MacBook',
-      price: 14000,
-      image: 'https://picsum.photos/id/180/2400/1600',
-    },
-    {
-      id: '10',
-      name: 'Old Car',
-      price: 24000,
-      image: 'https://picsum.photos/id/111/4400/2656',
-    },
   ],
 };
 export default data;
